@@ -1,0 +1,73 @@
+{
+  "project": "American Forgotten Outlaws",
+  "episode": "John Wesley Hardin - 1 Minute Pilot",
+  "aspectRatio": "16:9",
+  "fps": 30,
+  "character_profile": "John Wesley Hardin, 21-year-old 1870s Texas outlaw, sharp intense eyes, swept-back dark brown hair, neat mustache, wearing a dusty black wool frock coat, white collarless shirt, leather gun belt with dual ivory-handled Colt revolvers, photorealistic historical 1870s aesthetic.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration_sec": 7.5,
+      "narration": "Billy the Kid killed twenty-one men. But in 1870s Texas, another outlaw killed forty-two—and history almost forgot his name.",
+      "visual_prompt": "16:9 cinematic wide shot, dusty 1874 Texas frontier town at sunset, silhouettes of wooden saloons, John Wesley Hardin walking slowly down the center of the dirt street, dark coat blowing in the wind, photorealistic 8k documentary style.",
+      "sfx": "Low western cello drone, howling desert wind, slow leather boot footsteps",
+      "camera_movement": "Slow push-in toward the outlaw"
+    },
+    {
+      "scene_id": 2,
+      "duration_sec": 7.5,
+      "narration": "His name was John Wesley Hardin. The son of a Methodist preacher, he pulled his first trigger at just fifteen years old.",
+      "visual_prompt": "16:9 extreme close-up portrait of John Wesley Hardin, 21-year-old 1870s Texas outlaw, sharp cold eyes, neat mustache, half of his face lit by warm oil lamp light, dark gritty shadows, photorealistic historical texture.",
+      "sfx": "Heartbeat thud, faint metallic click of a revolver hammer being cocked",
+      "camera_movement": "Subtle slow zoom on eyes"
+    },
+    {
+      "scene_id": 3,
+      "duration_sec": 7.5,
+      "narration": "By the time he was twenty-one, the Texas Rangers had placed a four-thousand-dollar bounty on his head—dead or alive.",
+      "visual_prompt": "16:9 cinematic shot of a weathered 1870s yellowing paper WANTED poster nailed to a rough wooden post with an iron nail, reading JOHN WESLEY HARDIN $4000 REWARD, dusty saloon porch in background.",
+      "sfx": "Hammer strike on nail, paper fluttering in dry wind",
+      "camera_movement": "Slow pan across the wanted poster"
+    },
+    {
+      "scene_id": 4,
+      "duration_sec": 7.5,
+      "narration": "Hardin carried his twin Colt revolvers sewn crossed inside his vest, drawing faster than any lawman on the frontier.",
+      "visual_prompt": "16:9 medium shot inside a dimly lit 1870s Texas saloon, John Wesley Hardin opening his dusty black coat to reveal twin ivory-handled Colt .45 revolvers in a cross-draw leather vest holster, cinematic dust particles in sunbeams.",
+      "sfx": "Leather creak, tense violin string riser",
+      "camera_movement": "Slow tilt up from holsters to his face"
+    },
+    {
+      "scene_id": 5,
+      "duration_sec": 7.5,
+      "narration": "In Abilene, Kansas, even the legendary Wild Bill Hickok respected Hardin's deadly speed with a six-shooter.",
+      "visual_prompt": "16:9 cinematic two-shot in an 1871 Abilene street at dusk, John Wesley Hardin facing a long-haired frontier marshal in a tense standoff, wooden buildings and horses tied to rails, gritty 1870s realism.",
+      "sfx": "Horse snort, distant church bell chime, low dramatic bass",
+      "camera_movement": "Slow horizontal tracking shot"
+    },
+    {
+      "scene_id": 6,
+      "duration_sec": 7.5,
+      "narration": "Legends claim he once shot a man through a hotel wall simply for snoring too loudly in the next room.",
+      "visual_prompt": "16:9 dramatic night scene inside an 1870s wooden hotel room, bright muzzle flash from a revolver illuminating John Wesley Hardin's face in the dark, splintered bullet holes piercing through the wooden plank wall.",
+      "sfx": "Deafening echoed gunshot, wood splintering, ringing ear tone",
+      "camera_movement": "Sudden slight camera shake into slow pull-back"
+    },
+    {
+      "scene_id": 7,
+      "duration_sec": 7.5,
+      "narration": "For nine blood-soaked years, he outran posses, broke out of iron jails, and ruled the lawless Texas trails.",
+      "visual_prompt": "16:9 epic cinematic action shot, John Wesley Hardin riding a dark bay horse at full gallop across a misty Texas canyon at dawn, dark coat billowing, armed posse riders blurred in the far distance.",
+      "sfx": "Thundering horse hooves, dramatic orchestral percussion",
+      "camera_movement": "Dynamic tracking shot alongside the horse"
+    },
+    {
+      "scene_id": 8,
+      "duration_sec": 7.5,
+      "narration": "This is the untold story of the deadliest gunslinger in American history—the man too fast for the Wild West.",
+      "visual_prompt": "16:9 cinematic silhouette shot, John Wesley Hardin standing alone on a rocky Texas ridge against a blood-red sunset sky, smoke rising from the barrel of his lowered revolver, dark documentary title screen mood.",
+      "sfx": "Single echoed gunshot fading into desert wind, deep cinematic boom",
+      "camera_movement": "Slow pull-back to wide landscape"
+    }
+  ]
+}
