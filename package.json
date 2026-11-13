@@ -1,0 +1,18 @@
+{
+  "name": "american-forgotten-outlaws",
+  "version": "1.0.0",
+  "description": "Cloud AI video production studio for 1870s historical outlaw documentaries",
+  "scripts": {
+    "start": "remotion studio",
+    "render": "remotion render src/index.ts OutlawDocumentary out/video.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@remotion/three": "^4.0.0",
+    "@types/three": "^0.160.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "^4.0.0",
+    "three": "^0.160.0"
+  }
+}
